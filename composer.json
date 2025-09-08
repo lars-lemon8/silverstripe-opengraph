@@ -18,13 +18,13 @@
         "issues": "http://github.com/tractorcow/silverstripe-opengraph/issues"
     },
     "require": {
-        "silverstripe/framework": "^4 || ^5",
-        "silverstripe/siteconfig": "^4 || ^5"
+        "silverstripe/framework": "^4 || ^5 || ^6",
+        "silverstripe/siteconfig": "^4 || ^5 || ^6"
     },
     "require-dev": {
-        "silverstripe/assets": "^1 || ^2",
-        "silverstripe/cms": "^4 || ^5",
-        "silverstripe/recipe-testing": "^3"
+        "silverstripe/assets": "^1 || ^2 || ^3",
+        "silverstripe/cms": "^4 || ^5 || ^6",
+        "silverstripe/recipe-testing": "^3 || ^4"
     },
     "extra": {
         "installer-name": "opengraph",
